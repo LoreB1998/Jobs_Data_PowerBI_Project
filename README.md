@@ -69,10 +69,3 @@ La panoramica interattiva principale del mercato del lavoro nel settore dati. In
 2. Naviga alla scheda **Data Jobs Dashboard 2.0** per la vista finale
 3. Usa gli slicer **"Seleziona Lavoro"** e **"Seleziona Paese"** per filtrare i dati
 4. Usa i pulsanti in basso a ciascun grafico per cambiare la visualizzazione
-
----
-
-## 👤 Autore
-
-**Lorenzo Barbato**  
-[Profilo GitHub](https://github.com/LoreB1998)
