@@ -8,6 +8,8 @@ Una dashboard interattiva in Power BI per analizzare il **mercato del lavoro nel
 
 *Nessun account richiesto — accessibile direttamente dal browser.*
 
+![Preview](preview.gif)
+
 > ⚠️ **Nota:** Solo la scheda **Data Jobs Dashboard 2.0** rappresenta la dashboard finale e definitiva. Tutte le altre pagine (`Company Stats`, `Skills Stats`, `Schedule Stats`, `Salary Stats`, `Calculated Table`, `Measures`, `Skills vs Salary`, `Parameters`, `Parameters 2`) sono **pagine esplorative/di test** utilizzate durante la fase di analisi.
 
 ---
