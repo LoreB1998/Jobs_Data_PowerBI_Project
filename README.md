@@ -2,6 +2,12 @@
 
 Una dashboard interattiva in Power BI per analizzare il **mercato del lavoro nel settore dati**, costruita su un dataset reale di offerte di lavoro. Il progetto esplora la domanda di lavoro, le competenze richieste, i salari e le tipologie contrattuali per diversi ruoli e aziende.
 
+## 🌐 Dashboard Interattiva
+
+👉 [Visualizza la Dashboard Online](https://app.powerbi.com/view?r=eyJrIjoiN2FmMmJlMDEtM2ViNi00NTc1LTkxZjktYzMzYTIxN2E0MTU0IiwidCI6ImY2Yjg5MjUzLWNmZjEtNGEyYS05YmM5LWEzZjI3ZWU5MjNiMSIsImMiOjh9)
+
+*Nessun account richiesto — accessibile direttamente dal browser.*
+
 > ⚠️ **Nota:** Solo la scheda **Data Jobs Dashboard 2.0** rappresenta la dashboard finale e definitiva. Tutte le altre pagine (`Company Stats`, `Skills Stats`, `Schedule Stats`, `Salary Stats`, `Calculated Table`, `Measures`, `Skills vs Salary`, `Parameters`, `Parameters 2`) sono **pagine esplorative/di test** utilizzate durante la fase di analisi.
 
 ---
